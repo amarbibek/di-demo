@@ -1,6 +1,6 @@
 package com.mycodestuffs.didemo.controllers;
 
-import services.GreetingServiceImpl;
+import com.mycodestuffs.didemo.services.GreetingServiceImpl;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
